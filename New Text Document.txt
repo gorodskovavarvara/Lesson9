@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lesson9</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="main.css"/>
+
+    </head>
+    <body>
+       <div id="frame">
+           <div id="header">Ocean</div>
+           <div id="menu">
+               <a href="https://www.youtube.com/watch?v=AgpWX18dby4">YouTube</a>
+               <a href="https://en.wikipedia.org/wiki/Ocean">Wikipedia</a>
+               <a href="https://www.freetheocean.com/">Help ocean</a>
+           </div>
+           <div id="vmenu">
+                <a href="https://www.youtube.com/watch?v=AgpWX18dby4">YouTube</a>
+               <a href="https://en.wikipedia.org/wiki/Ocean">Wikipedia</a>
+               <a href="https://www.freetheocean.com/">Help ocean</a>
+           </div>
+           <div id="content">
+               <img src="./1.jpg">
+               <img src="./2.jpg">
+           </div>
+           <div id="sidebar">
+               <img class="pic" src="5.jpg" alt="image"/>
+               <img class="pic" src="6.jpg" alt="image"/>
+               <img class="pic" src="7.jpg" alt="image"/>
+           </div>
+           <br style="clear:both"/>
+           <div id="footer">All rights</div>
+       </div>
+
+    </body>
+</html>
